@@ -1,0 +1,6 @@
+{
+  "name": "HEAL Ops — Gestão TI",
+  "description": "Portal de Gestão Operacional da TI do Instituto HEAL com dados GLPI, auditoria diária, equipe técnica, Agente Gerencial e catálogo de painéis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
